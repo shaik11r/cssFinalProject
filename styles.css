@@ -1,0 +1,12 @@
+.red-border {
+  border: 0.1rem solid red;
+}
+.group {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  text-align: center;
+}
+.navbar {
+  text-align: center;
+  margin-top: 1rem;
+}
